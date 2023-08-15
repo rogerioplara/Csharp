@@ -25,23 +25,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1ConversaoTipos", "1Convers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2ConversaoTipos", "2ConversaoTipos\2ConversaoTipos.csproj", "{09F0EC2F-2868-45D9-8A4A-9598408D70ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{A75A54AC-AE17-4CE3-9487-B057200AE1D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{A75A54AC-AE17-4CE3-9487-B057200AE1D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{830287E5-087B-4E57-B4AA-949C4D0C1EEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAritmeticos", "OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{830287E5-087B-4E57-B4AA-949C4D0C1EEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaTipos1", "InferenciaTipos1\InferenciaTipos1.csproj", "{FA0EDD61-08DD-4444-82AE-0C7B2F7543CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferenciaTipos1", "InferenciaTipos1\InferenciaTipos1.csproj", "{FA0EDD61-08DD-4444-82AE-0C7B2F7543CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAtribuicao", "OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{2D624D2A-C3F0-4AA7-A23A-5134045EC8F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAtribuicao", "OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{2D624D2A-C3F0-4AA7-A23A-5134045EC8F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{FBE3CF38-CAEA-4237-90B2-9C7EC17A6FEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes", "Constantes\Constantes.csproj", "{FBE3CF38-CAEA-4237-90B2-9C7EC17A6FEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpIncrementoDecremento", "OpIncrementoDecremento\OpIncrementoDecremento.csproj", "{C79DA3BB-7B37-4840-8666-12DEFA8475F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpIncrementoDecremento", "OpIncrementoDecremento\OpIncrementoDecremento.csproj", "{C79DA3BB-7B37-4840-8666-12DEFA8475F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{F5E196E6-8CEA-4746-9900-464BD95AA68F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{F5E196E6-8CEA-4746-9900-464BD95AA68F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{3DF15C8E-AA15-4C9C-BCC9-22CFB198C7E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{3DF15C8E-AA15-4C9C-BCC9-22CFB198C7E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecedenciaAssociatividade", "PrecedenciaAssociatividade\PrecedenciaAssociatividade.csproj", "{ADFA4AB6-AC67-4116-A9DC-EE919971E464}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecedenciaAssociatividade", "PrecedenciaAssociatividade\PrecedenciaAssociatividade.csproj", "{ADFA4AB6-AC67-4116-A9DC-EE919971E464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{ADFA4AB6-AC67-4116-A9DC-EE919971E464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADFA4AB6-AC67-4116-A9DC-EE919971E464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADFA4AB6-AC67-4116-A9DC-EE919971E464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
