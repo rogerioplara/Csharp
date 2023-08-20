@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "Operad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrecedenciaAssociatividade", "PrecedenciaAssociatividade\PrecedenciaAssociatividade.csproj", "{ADFA4AB6-AC67-4116-A9DC-EE919971E464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableReferenceTypes", "NullableReferenceTypes\NullableReferenceTypes.csproj", "{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTernario", "OperadorTernario\OperadorTernario.csproj", "{4812D766-7D61-4FA2-884B-F5CDC3704BD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF2DFAD5-00C4-4F0E-B849-E0B40EA8C7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4812D766-7D61-4FA2-884B-F5CDC3704BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4812D766-7D61-4FA2-884B-F5CDC3704BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4812D766-7D61-4FA2-884B-F5CDC3704BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4812D766-7D61-4FA2-884B-F5CDC3704BD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
